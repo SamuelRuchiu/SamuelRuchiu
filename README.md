@@ -9,8 +9,14 @@ The projects demonstrate:
 - Styling and layout design with **CSS**
 - Adding functionality through **JavaScript**
 - Using **Git and GitHub** for version control
-
-## Tools & Technologies
+  
+## Languages, Tools & Technologies
+- Python
+- c
+- c++
+- Objct Oriented Programing
+- Assembly code &machine code
+- MySQL
 - HTML5  
 - CSS3  
 - JavaScript  

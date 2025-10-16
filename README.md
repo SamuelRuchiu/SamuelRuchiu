@@ -31,5 +31,3 @@ These projects helped me improve my understanding of:
 **Samuel Ruchiu Wamuhu**  
 Third-year Computer Systems  Engineering student, **Kirinyaga University**  
 Passionate about web development ,networking and software engineering.
-
----

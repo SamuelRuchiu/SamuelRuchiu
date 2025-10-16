@@ -33,5 +33,3 @@ Third-year Computer Systems  Engineering student, **Kirinyaga University**
 Passionate about web development ,networking and software engineering.
 
 ---
-
-*This repository supports my application for the eMobilis Web Development Cohort 5 Program.*

@@ -18,8 +18,19 @@ A Computer Systems Engineering senior at Kirinyaga University and an active memb
 
 ###  What I'm Up To
 
--  **Working on:** Building a strong foundation in Python and backend development, exploring Machine Learning models, and advancing my practical expertise in JavaScript, TypeScript, and C/C++. 
--  **Currently studying:** Java, modern TypeScript frameworks, Advanced C programming, Embedded Systems & IoT (Microcontrollers, PLCs), Systems Analysis & Design, Project Management, and Network Administration.
+-  **Working on:**
+     - Building a strong foundation in Python and backend development.
+     - Exploring Machine Learning models.
+     - Advancing my practical expertise in JavaScript, TypeScript, and C/C++. 
+-  **Currently studying:**
+-  Java
+-   modern TypeScript frameworks
+-   Advanced C,C++,Python programming
+-   Embedded Systems & IoT (Microcontrollers, PLCs)
+-   Systems Analysis & Design
+-   Project Management
+-   Network Administration.
+-   AI/ML fundamentals to advanced
 -  **Looking to collaborate on / Future Projects:** 
   - AI Mental Health Analyzers & ML apps
   - Node.js, Express & Django backend engineering

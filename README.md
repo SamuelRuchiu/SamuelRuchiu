@@ -37,8 +37,8 @@ Computer Systems Engineering senior specializing in the intersection of low-leve
 ### GitHub Overview & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=flat&hide_border=true&count_private=true" alt="Samuel Ruchiu Wamuhu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=flat&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelruchiu&show_icons=true&theme=flat&hide_border=true&count_private=true" alt="Samuel Ruchiu Wamuhu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelruchiu&layout=compact&theme=flat&hide_border=true" alt="Most Used Languages" width="48%" />
 </div>
 
 ---

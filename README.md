@@ -1,39 +1,49 @@
-# Web Development Projects
+# Samuel Ruchiu Wamuhu
+**Computer Systems Engineer Student | Kirinyaga University (CSK Club Member)**
 
-This repository contains sample web projects created to practice front-end development skills.  
-Each project focuses on applying classroom knowledge to real coding tasks.
+Computer Systems Engineering senior specializing in the intersection of low-level machine architecture, secure systems, and intelligent automation. Experienced in C, C++, Assembly, and Cybersecurity fundamentals, with a primary focus on engineering scalable backend systems, training AI/ML models in Python, and building production-ready web applications.
 
-## Overview
-The projects demonstrate:
-- Building web pages using **HTML**
-- Styling and layout design with **CSS**
-- Adding functionality through **JavaScript**
-- Using **Git and GitHub** for version control
-  
-## Languages, Tools & Technologies
-- Python
-- c
-- c++
-- Objct Oriented Programing
-- Assembly code &machine code
-- MySQL
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
+---
 
-## Key Features
-- Responsive web design  
-- Simple and clean interface  
-- Well-organized code structure  
+### Technical Focus & Competencies
 
-## Learning Focus
-These projects helped me improve my understanding of:
-- Front-end coding and design principles  
-- Problem-solving and logical thinking  
-- Collaboration using GitHub
+* **Systems Architecture & Low-Level Engineering:** C, C++, Assembly Language, Machine Code, Computer Organization, Hardware-Software Co-Design
+* **AI, Machine Learning & Data:** Python, Machine Learning Model Training, Neural Networks, MySQL, Data Structures & Algorithms
+* **Software Development & Web Systems:** Object-Oriented Programming (OOP), JavaScript, HTML5, CSS3, REST APIs, System Design
+* **Security & Infrastructure:** Cybersecurity Principles, Network Security, Git/GitHub Version Control, Linux Systems
 
-## Author
-**Samuel Ruchiu Wamuhu**  
-Third-year Computer Systems  Engineering student, **Kirinyaga University**  
-Passionate about web development ,networking and software engineering.
+---
+
+### Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### Engineering & Freelance Deliverables
+
+* **Intelligent Systems & AI:** End-to-end Machine Learning pipelines, model training, and data processing scripts.
+* **Full-Stack & Backend Web Development:** Responsive, secure web platforms integrated with relational databases.
+* **Systems & Automation Scripts:** High-performance, memory-efficient utility software built in C/C++ and Python.
+
+---
+
+### GitHub Overview & Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=flat&hide_border=true&count_private=true" alt="Samuel Ruchiu Wamuhu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=flat&hide_border=true" alt="Most Used Languages" width="48%" />
+</div>
+
+---
+
+### Contact & Professional Networks
+
+* **LinkedIn:** [linkedin.com/in/samuelruchiu](https://linkedin.com/in/samuelruchiu)
+* **Portfolio:** [samuelruchiuo.com](https://samuelruchiu.com)

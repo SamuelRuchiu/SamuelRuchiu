@@ -46,4 +46,4 @@ Computer Systems Engineering senior specializing in the intersection of low-leve
 ### Contact & Professional Networks
 
 * **LinkedIn:** [linkedin.com/in/samuelruchiu](https://linkedin.com/in/samuelruchiu)
-* **Portfolio:** [samuelruchiuo.com](https://samuelruchiu.com)
+* **Portfolio:** [samuelruchiu.com](https://samuelruchiu.github.io/portfolio-website/)

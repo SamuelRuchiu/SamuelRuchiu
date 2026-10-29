@@ -47,3 +47,4 @@ Computer Systems Engineering senior specializing in the intersection of low-leve
 
 * **LinkedIn:** [linkedin.com/in/samuelruchiu](https://linkedin.com/in/samuelruchiu)
 * **Portfolio:** [samuelruchiu.com](https://samuelruchiu.github.io/portfolio-website/)
+* **Email:** [samuelruchiu69@gmail.com](mailto:samuelruchiu69@gmail.com)
